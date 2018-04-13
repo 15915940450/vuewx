@@ -1,4 +1,4 @@
-# tmpwebpack
+# vuewx
 
 > A Vue.js project
 
