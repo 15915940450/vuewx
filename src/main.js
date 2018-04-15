@@ -3,6 +3,10 @@
 import Vue from 'vue';
 import App from './App';
 import router from './router';
+import EUI from 'element-ui';
+import './assets/e_theme.scss';
+
+Vue.use(EUI);
 
 Vue.config.productionTip = false;
 
